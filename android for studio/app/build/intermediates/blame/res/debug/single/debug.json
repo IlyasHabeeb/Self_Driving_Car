@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\mohsin\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\mohsin\\StudioProjects\\android\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mohsin\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\mohsin\\StudioProjects\\android\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
